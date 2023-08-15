@@ -1,0 +1,11 @@
+@import '../../../../../dist/scss/variables.scss';
+
+section{
+    width: 100%;
+    min-height: 250px;
+    
+    background: $secondary-background-color;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.08);
+
+    margin-top: 20px;
+}
